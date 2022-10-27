@@ -1,0 +1,11 @@
+C:\Users\Matheus\source\repos\WF_CalcularIMC\bin\Debug\WF_CalcularIMC.exe.config
+C:\Users\Matheus\source\repos\WF_CalcularIMC\bin\Debug\WF_CalcularIMC.exe
+C:\Users\Matheus\source\repos\WF_CalcularIMC\bin\Debug\WF_CalcularIMC.pdb
+C:\Users\Matheus\source\repos\WF_CalcularIMC\obj\Debug\WF_CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\WF_CalcularIMC\obj\Debug\WF_CalcularIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus\source\repos\WF_CalcularIMC\obj\Debug\WF_CalcularIMC.Form1.resources
+C:\Users\Matheus\source\repos\WF_CalcularIMC\obj\Debug\WF_CalcularIMC.Properties.Resources.resources
+C:\Users\Matheus\source\repos\WF_CalcularIMC\obj\Debug\WF_CalcularIMC.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\WF_CalcularIMC\obj\Debug\WF_CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\WF_CalcularIMC\obj\Debug\WF_CalcularIMC.exe
+C:\Users\Matheus\source\repos\WF_CalcularIMC\obj\Debug\WF_CalcularIMC.pdb
